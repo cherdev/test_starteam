@@ -1,10 +1,11 @@
 # hacker_news_clone
 
 ### Demo
+https://github.com/user-attachments/assets/aa15e363-347a-456f-8c48-aee014714f12
 
 ### Разворот проекта
 
-1. `git clone`
+1. `git clone https://github.com/cherdev/test_starteam.git`
 2. `npm install`
 3. `npm run dev`
 
